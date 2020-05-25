@@ -1,0 +1,10 @@
+_id: fld_wrk_eb6d5bb739bd436890f183a883d266216ccb6007
+created: 1590438528540
+description: Retrieve categories for each restaurant in the system.
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1590438528540
+modified: 1590438721996
+name: Categories
+parentId: wrk_eb6d5bb739bd436890f183a883d26621
+type: RequestGroup
