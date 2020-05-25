@@ -1,0 +1,9 @@
+_id: wrk_eb6d5bb739bd436890f183a883d26621
+created: 1590101120742
+description: inKind API for create orders for the new Order Take Out Feature in
+  the Consumers App
+modified: 1590438722002
+name: inKind Orders API 1.0.0
+parentId: null
+scope: spec
+type: Workspace
