@@ -4,7 +4,7 @@ description: Retrieve categories for each restaurant in the system.
 environment: {}
 environmentPropertyOrder: null
 metaSortKey: -1590438528540
-modified: 1590438721996
+modified: 1590527339334
 name: Categories
 parentId: wrk_eb6d5bb739bd436890f183a883d26621
 type: RequestGroup

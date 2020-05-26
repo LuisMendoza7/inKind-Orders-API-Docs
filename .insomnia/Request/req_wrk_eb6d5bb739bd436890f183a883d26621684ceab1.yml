@@ -7,13 +7,12 @@ headers: []
 isPrivate: false
 metaSortKey: -1590429543500
 method: GET
-modified: 1590438731515
+modified: 1590527339323
 name: Get categories by restaurant id.
 parameters:
   - disabled: false
-    id: pair_1aaee129c1e141fdb9bab4c13321ba8e
     name: restaurant
-    value: "1"
+    value: "0"
 parentId: fld_wrk_eb6d5bb739bd436890f183a883d266216ccb6007
 settingDisableRenderRequestBody: false
 settingEncodeUrl: true

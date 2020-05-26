@@ -3,12 +3,12 @@ color: null
 created: 1590101136691
 data:
   base_path: /api/v1
-  host: apiinkind-dev.us-west-1.elasticbeanstalk.com
+  host: apiinkind-staging.eba-zbed2gpi.us-west-1.elasticbeanstalk.com
   scheme: http
 dataPropertyOrder: null
 isPrivate: false
 metaSortKey: 1590101136691
-modified: 1590438721998
+modified: 1590527339336
 name: OpenAPI env
 parentId: env_fe24edf93782575d80f3f20894a7ffdde73a1895
 type: Environment
